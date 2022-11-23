@@ -3,7 +3,7 @@ package leetcode;
 import java.util.Map;
 import java.util.HashMap;
 
-public class lc_FirstMissingPositive {
+public class lc41_FirstMissingPositive {
 
     static void func(int... nums){
         // assume no duplicates
